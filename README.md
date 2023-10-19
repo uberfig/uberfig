@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ivy
-- 👀 I like rust stuff
+- Hi, I’m Ivy 🌱
+- 🦀 I like rust stuff
 - 📫 You can reach me on matrix at [@figroot:matrix.org](https://matrix.to/#/@figroot:matrix.org)
 - 📄 I also have a [blog](https://ivytime.gay)
 
